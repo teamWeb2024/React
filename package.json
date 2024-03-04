@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "movieapp",
+=======
+  "name": "first",
+>>>>>>> d46730a86cae892143438055bb8cc6bcb16a6e72
   "version": "0.1.0",
   "private": true,
   "dependencies": {
